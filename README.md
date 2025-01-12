@@ -45,3 +45,6 @@ The applications of ChatGPT continue to grow as the technology evolves. It’s v
 - *Creative industries*: Artists, designers, and storytellers can use ChatGPT for brainstorming ideas, character development, and storytelling.
 
 Mastering ChatGPT may be able to help you gain a valuable edge in your respective field by enhancing your efficiency and effectiveness. 
+
+# Limitation ChatGPT
+Some ChatGPT limitations include occasional generation of incorrect or nonsensical responses, sensitivity to input phrasing, lack of consistent fact-checking, and potential to exhibit biased behavior based on the provided prompts. It can be verbose and overuse certain phrases. It also does not have a memory of past interactions, which can lead to loss of context during conversations.
